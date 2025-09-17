@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Halo, saya M DIAN FAUZI 👋</h1>
-<h3 align="center">Seorang Back End Developer dari Indonesia 🇮🇩</h3>
+<h3 align="center">Seorang Front End & Back End Developer dari Indonesia 🇮🇩</h3>
 
 <p align="left">
   Saya adalah seorang engineer yang bersemangat dalam membangun aplikasi web yang modern dan bermanfaat. Saat ini saya sedang fokus untuk mendalami teknologi cloud dan arsitektur microservices.
@@ -14,7 +14,7 @@
 - 🔭 Saya sedang mengerjakan **proyek sistem manajemen inventaris berbasis web**.
 - 🌱 Saya sedang belajar **Go (Golang) dan Kubernetes**.
 - 💬 Tanya saya tentang **JavaScript, React, Node.js, dan CSS**.
-- 📫 Cara menghubungi saya: **[email.anda@example.com]**
+- 📫 Cara menghubungi saya: **[dianf7673@gmail.com]**
 - ⚡ Fakta unik: Saya suka mendengarkan musik lo-fi saat coding.
 
 ---
@@ -57,7 +57,7 @@
   <a href="https://twitter.com/USERNAME-TWITTER">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/USERNAME-INSTAGRAM">
+  <a href="https://instagram.com/m.dianfauzii">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
