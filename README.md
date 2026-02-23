@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;Next.js+Lover;Always+Learning+New+Things" />
+</p>
 <h1 align="center">Hi 👋, I'm M Dian Fauzi</h1>
 <h3 align="center">Informatics Student | Web Developer | AI Enthusiast</h3>
 
@@ -34,7 +37,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dianfauzi16&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dianfauzi16&theme=tokyo-night" />
 </p>
 
 <p align="center">
