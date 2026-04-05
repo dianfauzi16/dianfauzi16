@@ -48,7 +48,7 @@
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/dian-fauzi-7bb8332ab
-- 🌐 Portfolio: Coming Soon...
+- 🌐 Portfolio: https://portfolio-dian-fauzi.vercel.app/
 - 📧 Email: dianf7673@gmail.com
 
 ---
