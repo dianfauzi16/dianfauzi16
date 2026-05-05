@@ -41,8 +41,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dianfauzi16&theme=tokyonigh"/>
+  <img src="https://ghchart.rshah.org/dianfauzi16"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dianfauzi16&theme=tokyonight"/>
+</p>  
 
 ---
 
