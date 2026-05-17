@@ -51,7 +51,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/m-dian-fauzi-7bb8332ab
+- 💼 LinkedIn: https://linkedin.com/in/m-dian-fauzi-7bb8332ab
 - 🌐 Portfolio: https://portfolio-dian-fauzi.vercel.app/
 - 📧 Email: dianf7673@gmail.com
 
