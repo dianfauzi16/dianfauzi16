@@ -10,7 +10,7 @@
 - 🎓 Informatics Student
 - 💻 Passionate about Web Development
 - 🤖 Exploring Artificial Intelligence
-- 🌱 Currently learning: Next.js & Backend Development
+- 🌱 Currently learning: Machine Learning & Backend Development
 - ⚡ Fun fact: I love building modern web apps
 
 ---
